@@ -33,13 +33,10 @@
 ## for more knowlegdge visit docs
 - <a href="https://gym.openai.com/docs/" target="_blank">Docs</a> .
 
-
-
 ---
 
-> To get started...
 ```shell
->Some Common Terms
+> Some Common Terms
 
 - Agent
 - Environment
