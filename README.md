@@ -2,8 +2,6 @@
 
 ## Table of Contents (Optional)
 
-> If your `README` has a lot of info, section headers might be nice.
-
 - [Create Environment](#Environment)
 - [Observation](#Observation)
 ---
@@ -33,7 +31,7 @@
 - render()
 
 ## for more knowlegdge visit docs
-- <a href="https://gym.openai.com/docs/" target="_blank">Data Set</a> .
+- <a href="https://gym.openai.com/docs/" target="_blank">Docs</a> .
 
 
 
